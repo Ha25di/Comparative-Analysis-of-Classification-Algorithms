@@ -1,1 +1,2 @@
 # Comparative-Analysis-of-Classification-Algorithms
+This project involves exploring, modeling, and comparing different classification algorithms (logistic regression, LDA, QDA, and KNN) on a dataset to predict a response variable. The analysis includes graphical exploration, data splitting, model fitting, evaluation metrics computation (test error, confusion matrix), ROC curve analysis, and performance comparison through cross-validation and bootstrap estimation.
